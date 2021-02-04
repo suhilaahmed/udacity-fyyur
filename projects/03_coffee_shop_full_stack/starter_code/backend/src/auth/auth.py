@@ -4,7 +4,7 @@ from functools import wraps
 from jose import jwt
 from urllib.request import urlopen
 
-AUTH0_DOMAIN = 'udacity-fsnd.auth0.com'
+AUTH0_DOMAIN = 'dev-hkzgf3t0.us.auth0.com'
 ALGORITHMS = ['RS256']
 API_AUDIENCE = 'dev'
 
